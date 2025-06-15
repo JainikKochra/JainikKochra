@@ -48,7 +48,7 @@
 
 ### 📊 GitHub Stats
 
-<div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
+<div style="display: flex; gap: 50px; justify-content: center; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JainikKochra&theme=default" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=JainikKochra&show_icons=true&theme=default" alt="GitHub Stats" />
 </div>
