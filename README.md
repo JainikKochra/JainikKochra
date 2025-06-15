@@ -11,7 +11,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Pursuing MSc in Artificial Intelligence  
+- 🎓 Pursuing MSc in Big Data Analytics
 - 🔬 Working on **OCR + Object Detection** powered mobile apps  
 - 📦 Built a **YouTube Q&A Chatbot** using Langchain, Gemini, FAISS  
 - 🌱 Currently exploring **GenAI APIs**, **vector DBs**, and **real-time ML**
