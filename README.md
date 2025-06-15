@@ -47,10 +47,16 @@
 ---
 ### 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JainikKochra&theme=default" alt="GitHub Streak" style="width: 50%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=JainikKochra&show_icons=true&theme=default" alt="GitHub Stats" style="width: 50%;"/>
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="flex: 1; display: flex; justify-content: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JainikKochra&theme=default"  style="height: 200px;" />
+  </div>
+  <div style="flex: 1; display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=JainikKochra&show_icons=true&theme=default" style="height: 200px;" />
+  </div>
 </div>
+
 
 
 ---
