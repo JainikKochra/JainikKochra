@@ -48,11 +48,17 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JainikKochra&theme=default" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=JainikKochra&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=JainikKochra&theme=default" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=JainikKochra&show_icons=true&theme=default" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
