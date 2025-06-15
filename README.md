@@ -48,10 +48,11 @@
 
 ### 📊 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JainikKochra&theme=default" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=JainikKochra&show_icons=true&theme=default" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JainikKochra&theme=default" alt="GitHub Streak" style="width: 100%; max-width: 400px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JainikKochra&show_icons=true&theme=default" alt="GitHub Stats" style="width: 100%; max-width: 400px;" />
 </div>
+
 
 
 ---
