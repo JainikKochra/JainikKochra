@@ -47,16 +47,11 @@
 ---
 ### 📊 GitHub Stats
 
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <div style="flex: 1; display: flex; justify-content: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JainikKochra&theme=default"  style="height: 200px;" />
-  </div>
-  <div style="flex: 1; display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=JainikKochra&show_icons=true&theme=default" style="height: 200px;" />
-  </div>
-</div>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JainikKochra&theme=default" height="200px"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=JainikKochra&show_icons=true&theme=default" height="200px"/>
+</p>
 
 
 ---
