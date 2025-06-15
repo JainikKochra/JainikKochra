@@ -23,6 +23,12 @@
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-E44D26?style=flat&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat&logo=google)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS-2E8B57?style=flat&logoColor=white)
+![MiniLM](https://img.shields.io/badge/-MiniLM-00B2FF?style=flat&logo=semanticweb&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/-YOLOv8-black?style=flat)
 ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=langchain&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -36,7 +42,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | 📺 [YouTube Q&A Chatbot](https://github.com/JainikKochra/yt-chatbot) | Chat with any YT video using transcripts + FAISS | `Langchain`, `Gemini`, `MiniLM`, `Streamlit` |
-| 🔍 [Customer Churn Prediction]([https://github.com/JainikKochra](https://github.com/JainikKochra/customer-churn-app)) | Real-time label detection & validation with OCR + YOLOv8 | `Streamlit`, `XGBoost`, `Flask`, `Streamlit Cloud` |
+| 🔍 [Customer Churn Prediction](https://github.com/JainikKochra/customer-churn-app) | Real-time label detection & validation with OCR + YOLOv8 | `Streamlit`, `XGBoost`, `Flask`, `Streamlit Cloud` |
 | 🗂 [Inventory CRUD App](https://github.com/JainikKochra/Book-Inventory-basic-CURD) | Full Stack CRUD with PostgreSQL + Streamlit UI | `Python`, `PostgreSQL`, `psycopg2` |
 
 ---
