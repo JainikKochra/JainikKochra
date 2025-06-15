@@ -35,9 +35,9 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🔍 [Pharma Label Validator](https://github.com/JainikKochra) | Real-time label detection & validation with OCR + YOLOv8 | `Streamlit`, `RapidOCR`, `Ultralytics` |
-| 📺 YouTube Q&A Chatbot(https://github.com/JainikKochra/yt-chatbot) | Chat with any YT video using transcripts + FAISS | `Langchain`, `Gemini`, `MiniLM`, `Streamlit` |
-| 🗂 Inventory CRUD App | Full Stack CRUD with PostgreSQL + Streamlit UI | `Python`, `PostgreSQL`, `psycopg2` |
+| 📺 [YouTube Q&A Chatbot](https://github.com/JainikKochra/yt-chatbot) | Chat with any YT video using transcripts + FAISS | `Langchain`, `Gemini`, `MiniLM`, `Streamlit` |
+| 🔍 [Customer Churn Prediction]([https://github.com/JainikKochra](https://github.com/JainikKochra/customer-churn-app)) | Real-time label detection & validation with OCR + YOLOv8 | `Streamlit`, `XGBoost`, `Flask`, `Streamlit Cloud` |
+| 🗂 [Inventory CRUD App](https://github.com/JainikKochra/Book-Inventory-basic-CURD) | Full Stack CRUD with PostgreSQL + Streamlit UI | `Python`, `PostgreSQL`, `psycopg2` |
 
 ---
 
