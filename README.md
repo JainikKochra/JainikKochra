@@ -48,16 +48,11 @@
 
 ### 📊 GitHub Stats
 
-<table style="border: none;">
-  <tr>
-    <td style="border: none; padding-right: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=JainikKochra&theme=default" alt="GitHub Streak" />
-    </td>
-    <td style="border: none; padding-left: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=JainikKochra&show_icons=true&theme=default" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JainikKochra&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JainikKochra&show_icons=true&theme=default" alt="GitHub Stats" />
+</div>
+
 
 ---
 
