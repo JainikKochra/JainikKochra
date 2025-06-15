@@ -48,7 +48,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JainikKochra&theme=default" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JainikKochra&theme=default" height="170px"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=JainikKochra&show_icons=true&theme=default" height="180px"/>
 </p>
