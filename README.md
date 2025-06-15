@@ -40,8 +40,8 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 📺 [YouTube Q&A Chatbot](https://github.com/JainikKochra/yt-chatbot) <br> ![Live Demo](https://img.shields.io/badge/Streamlit-App-brightgreen?style=flat&logo=streamlit&logoColor=white) [🔗 click here](https://yt-chatbot-8ystcpk58sxpgexypyvngt.streamlit.app/) | Chat with any YT video using transcripts + FAISS | `Langchain`, `Gemini`, `MiniLM`, `Streamlit` |
-| 🔍 [Customer Churn Prediction](https://github.com/JainikKochra/customer-churn-app) <br> ![Live Demo](https://img.shields.io/badge/Streamlit-App-orange?style=flat&logo=streamlit&logoColor=white) [🔗 click here](https://customer-churn-app-078.streamlit.app/) | Predict churn risk for telecom customers | `Streamlit`, `XGBoost`, `Flask`, `Streamlit Cloud` |
+| 📺 [YouTube Q&A Chatbot](https://github.com/JainikKochra/yt-chatbot) <br>  [🔗 click here](https://yt-chatbot-8ystcpk58sxpgexypyvngt.streamlit.app/) <br> ![Live Demo](https://img.shields.io/badge/Streamlit-App-brightgreen?style=flat&logo=streamlit&logoColor=white) | Chat with any YT video using transcripts + FAISS | `Langchain`, `Gemini`, `MiniLM`, `Streamlit` |
+| 🔍 [Customer Churn Prediction](https://github.com/JainikKochra/customer-churn-app) [🔗 click here](https://customer-churn-app-078.streamlit.app/) <br> ![Live Demo](https://img.shields.io/badge/Streamlit-App-orange?style=flat&logo=streamlit&logoColor=white) | Predict churn risk for telecom customers | `Streamlit`, `XGBoost`, `Flask`, `Streamlit Cloud` |
 | 🗂 [Inventory CRUD App](https://github.com/JainikKochra/Book-Inventory-basic-CURD) | Full Stack CRUD with PostgreSQL + Streamlit UI | `Python`, `PostgreSQL`, `psycopg2` |
 
 ---
