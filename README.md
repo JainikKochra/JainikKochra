@@ -1,7 +1,7 @@
 <!-- Profile README for JainikKochra -->
 
 <h1 align="center">Hi 👋, I'm Jainik Kochra</h1>
-<h3 align="center">🚀 AI Enthusiast | 👨‍💻 Full Stack Developer | 📍 India</h3>
+<h3 align="center">🚀 AI Enthusiast | 👨‍💻 AI-ML Developer | 📍 India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=MSc+AI+Student+%7C+ML%2FNLP+Projects;Real-Time+OCR+%2B+YOLOv8+Apps;Streamlit+Lover+%7C+LangChain+Builder" alt="Typing SVG" />
@@ -36,7 +36,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🔍 [Pharma Label Validator](https://github.com/JainikKochra) | Real-time label detection & validation with OCR + YOLOv8 | `Streamlit`, `RapidOCR`, `Ultralytics` |
-| 📺 YouTube Q&A Chatbot | Chat with any YT video using transcripts + FAISS | `Langchain`, `Gemini`, `MiniLM`, `Streamlit` |
+| 📺 YouTube Q&A Chatbot(https://github.com/JainikKochra/yt-chatbot) | Chat with any YT video using transcripts + FAISS | `Langchain`, `Gemini`, `MiniLM`, `Streamlit` |
 | 🗂 Inventory CRUD App | Full Stack CRUD with PostgreSQL + Streamlit UI | `Python`, `PostgreSQL`, `psycopg2` |
 
 ---
